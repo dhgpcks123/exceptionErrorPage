@@ -12,6 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 public class ErrorPageController {
 
     // RequestDispatcher 에 상수로 정의되어 있음.
+    // 완강 후 exception 다시 학습 필요하겠다...
     public static final String ERROR_EXCEPTION = "javax.servlet.error.exception";
     public static final String ERROR_EXCEPTION_TYPE = "javax.servlet.error.exception_type";
     public static final String ERROR_MESSAGE = "javax.servlet.error.message";
