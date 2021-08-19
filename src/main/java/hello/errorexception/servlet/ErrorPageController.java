@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @Slf4j
-@Controller
+//@Controller
 public class ErrorPageController {
 
     // RequestDispatcher 에 상수로 정의되어 있음.
